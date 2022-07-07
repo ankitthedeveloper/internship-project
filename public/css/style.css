@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+}
+.box {
+  max-width: 400px;
+  margin: 50px auto;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+  padding-bottom: 20px;
+}
+h1{
+  font-family: 'Montserrat';
+}
+input,.btn{
+  font-family:'Ubuntu';
+}
